@@ -22,8 +22,8 @@ Elle permet d’afficher un message Toast et d’incrémenter un compteur.
 
 # Interface
 Voici un aperçu de l'application :
-<img width="1918" height="1010" alt="Screenshot 2026-03-27 162231" src="https://github.com/user-attachments/assets/78f8a117-f9b2-49e3-8c10-8d4f419aa6dc" />
-<img width="585" height="807" alt="Screenshot 2026-03-27 165125" src="https://github.com/user-attachments/assets/d3ad07ac-d19c-4f18-9816-b39151ff98d7" />
+<img width="1918" height="1010" alt="Screenshot 2026-03-27 162231" src="https://github.com/user-attachments/assets/9eb4bfcf-f240-4933-85f6-4cf6303e3d19" />
+<img width="585" height="807" alt="Screenshot 2026-03-27 165125" src="https://github.com/user-attachments/assets/014bbb93-52fd-47ba-af50-6222d5175b29" />
 
 
 # Exécution
