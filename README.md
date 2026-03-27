@@ -32,3 +32,6 @@ Voici un aperçu de l'application :
   - Lancer un émulateur ou connecter un téléphone
   - Cliquer sur Run ▶️
 
+# Auteur
+ASSEKNOUR SANA 
+
