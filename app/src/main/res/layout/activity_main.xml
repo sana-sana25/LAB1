@@ -1,0 +1,39 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20dp"
+    android:background="#FCE4EC">
+
+    <!-- Compteur -->
+    <TextView
+        android:id="@+id/text_count"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:textSize="50sp"
+        android:textStyle="bold"
+        android:textColor="#C2185B"
+        android:layout_marginBottom="30dp" />
+
+    <!-- Bouton Toast -->
+    <Button
+        android:id="@+id/button_toast"
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:text="Afficher un message"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#EC407A"
+        android:layout_marginBottom="15dp" />
+
+    <!-- Bouton compteur -->
+    <Button
+        android:id="@+id/button_count"
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:text="Incrémenter le compteur"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#AD1457" />
+
+</LinearLayout>
