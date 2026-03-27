@@ -23,8 +23,9 @@ Elle permet d’afficher un message Toast et d’incrémenter un compteur.
 
 # Interface
 Voici un aperçu de l'application :
-<img width="1918" height="1010" alt="Screenshot 2026-03-27 162231" src="https://github.com/user-attachments/assets/53c85fea-c5b3-445c-9fa6-29e381624a6f" />
-<img width="585" height="807" alt="Screenshot 2026-03-27 165125" src="https://github.com/user-attachments/assets/6560f416-bee5-4378-b873-c14f0cc24224" />
+<img width="1918" height="1010" alt="Screenshot 2026-03-27 162231" src="https://github.com/user-attachments/assets/78f8a117-f9b2-49e3-8c10-8d4f419aa6dc" />
+<img width="585" height="807" alt="Screenshot 2026-03-27 165125" src="https://github.com/user-attachments/assets/d3ad07ac-d19c-4f18-9816-b39151ff98d7" />
+
 
 # Exécution
   - Ouvrir le projet avec Android Studio
