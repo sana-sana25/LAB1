@@ -21,6 +21,8 @@ Elle permet d’afficher un message Toast et d’incrémenter un compteur.
   - Bouton "Incrémenter le compteur" → augmente la valeur affichée
 
 # Interface
+Voici un aperçu de l'application :
+<img width="1918" height="1010" alt="Screenshot 2026-03-27 162231" src="https://github.com/user-attachments/assets/53c85fea-c5b3-445c-9fa6-29e381624a6f" />
   - Design simple et moderne
   - Compteur centré
   - Boutons stylés 
